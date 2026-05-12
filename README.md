@@ -19,3 +19,11 @@
 - Using online database to practice cleaning data
 - The workflow of the process is supported by online suggestion (next steps, used functions...)
 - This work marks the first week of self-learning about SQL
+
+
+> **Files**
+- layoffs.csv: Original data
+- layoffs_staging2.csv: Cleaned data
+- first_cleaning_data.sql: Queries of cleaning data
+- exploratory data.sql: Queries of analysis data
+- Exploratory Data.docx: Exploration analysis of the data 
