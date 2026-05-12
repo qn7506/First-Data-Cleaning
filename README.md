@@ -1,8 +1,9 @@
-# First Data Cleaning Project
+# First Data Cleaning And Exploration Project
 
 > **What About**
 - A database contains layoffs information of global companies around the world
 - The goal is to remove any duplicates, blank datas in order to practice exploration data analysis with Tableau
+- Analysis and compares data based on different factors 
 
 > **Used Syntaxes:**
 - SELECT ... FROM
